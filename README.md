@@ -14,9 +14,9 @@
 
 |    题号    |             题目             |                           题解链接                           |
 | :--------: | :--------------------------: | :----------------------------------------------------------: |
-|  面试题03  |       数组中重复的数字       | [题解笔记](https://github.com/yearing1017/Algorithm_Note/blob/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9803.md) |
-|  面试题04  |       二维数组中的查找       | [题解笔记](https://github.com/yearing1017/Algorithm_Note/blob/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9804.md) |
-|  面试题05  |           替换空格           | [题解笔记](https://github.com/yearing1017/Algorithm_Note/blob/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9805.md) |
+|  面试题03  |       数组中重复的数字       | [题解笔记](https://github.com/LittleTimeCc/Code-algorithm-offer/blob/main/剑指offer/剑指 Offer 03. 数组中重复的数字.md) |
+|  面试题04  |       二维数组中的查找       | [题解笔记](https://github.com/LittleTimeCc/Code-algorithm-offer/blob/main/剑指offer/剑指 Offer 04. 二维数组中的查找.md) |
+|  面试题05  |           替换空格           | [题解笔记](https://github.com/LittleTimeCc/Code-algorithm-offer/blob/main/剑指offer/剑指 Offer 05. 替换空格.md) |
 |  面试题06  |       从尾到头打印链表       | [题解笔记](https://github.com/yearing1017/Algorithm_Note/blob/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9806.md) |
 |  面试题07  |          重建二叉树          | [题解笔记](https://github.com/yearing1017/Algorithm_Note/blob/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9807.md) |
 |  面试题09  |       用两个栈实现队列       | [题解笔记](https://github.com/yearing1017/Algorithm_Note/blob/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9809.md) |
