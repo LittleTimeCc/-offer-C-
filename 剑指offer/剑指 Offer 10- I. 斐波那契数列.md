@@ -82,60 +82,6 @@ public:
 
 * ### 方法三：矩阵快速幂
 
-  $$
-  \begin{bmatrix}
-  0&1\\
-  1&1\\
-  \end{bmatrix}
-  
-  \begin{bmatrix}    
-  F_0&0\\
-  F_1&0\\
-  \end{bmatrix}
-  =
-  \begin{bmatrix}
-  F_1&0\\
-  F_0 + F_1&0\\
-  \end{bmatrix}
-  \\
-  \\
-  
-  \begin{matrix}  
-  \\
-  F_0 + F_1 = F_2
-  \end{matrix}
-  $$
-  
-  $$
-  \begin{bmatrix}
-  0&1\\
-  1&1\\
-  \end{bmatrix}^n
-  
-  \begin{bmatrix}    
-  F_0&0\\
-  F_1&0\\
-  \end{bmatrix}
-  =
-  \begin{bmatrix}
-  F_{n-1}&0\\
-  F_{n-2} + F_{n-1}&0\\
-  \end{bmatrix}
-  \\
-  \\
-  
-  \begin{matrix}  
-  \\
-  F_{n-1} + F_{n-2} = F_n
-  \\
-  \end{matrix}
-  $$
-  
-  
-  
-  **如上的递推的矩阵可知，只需要计算矩阵的n次幂即可得到数列的第n项，因此问题转换为矩阵的n次幂。**
-
-
 ```c++
 const int M = 2;
 typedef long long LL;
